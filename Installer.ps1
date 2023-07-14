@@ -1,6 +1,6 @@
 # Set the URLs for the Brave browser installer and wallpaper
-$installerUrl = "https://hi-im.sydney/installer/brave.exe"
-$wallpaperUrl = "https://hi-im.sydney/installer/wallpaper.png"
+$installerUrl = "https://content.donutcdn.com/@SydneyScripts/Brave.exe"
+$wallpaperUrl = "https://content.donutcdn.com/@SydneyScripts/wallpaper.png"
 
 # Set the download paths for the installer and wallpaper
 $installerPath = "$env:TEMP\brave.exe"
